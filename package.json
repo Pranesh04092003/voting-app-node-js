@@ -1,0 +1,11 @@
+{
+  "name": "voting-app-node-js",
+  "version": "1.0.0",
+  "description": "Basic node-js Application for Voting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranesh",
+  "license": "ISC"
+}
